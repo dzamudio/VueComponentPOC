@@ -57,3 +57,5 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 ```sh
 npm run lint
 ```
+
+### Vue Custom Component [Tutorial](https://www.youtube.com/watch?v=1w24B1f1Rmo)
