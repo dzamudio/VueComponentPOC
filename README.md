@@ -2,9 +2,10 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+## PHPStorm Setup
+[Refer to this document for how to setup phpStorm](https://neoncrm.atlassian.net/wiki/spaces/PROD/pages/3233612415/VueJS+3+research+document#%F0%9F%9F%A2IntelliJ-PHPStorm-Setup)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## If setting up a whole new project, refer to [this documentation](https://neoncrm.atlassian.net/wiki/spaces/PROD/pages/3233612415/VueJS+3+research+document#%F0%9F%9F%A2Setup).
 
 ## Type Support for `.vue` Imports in TS
 
