@@ -59,3 +59,14 @@ npm run lint
 ```
 
 ### Vue Custom Component [Tutorial](https://www.youtube.com/watch?v=1w24B1f1Rmo)
+This 10min tutorial will walk you through how to create and register a component:
+```js
+import { defineCustomElement } from 'vue'
+import TestComponent from './components/my-test-component.ce.vue'
+
+const element = defineCustomElement(TestComponent);
+
+customElements.define("test-component", element);
+```
+How to bundle css into one js file. (naming component files with extension ce.vue
+
