@@ -70,3 +70,9 @@ customElements.define("test-component", element);
 ```
 How to bundle css into one js file. (naming component files with extension ce.vue
 
+Once your work is complete you run
+```sh
+npm run build
+```
+And this will generate one js file in the /dist directory (along with an html file for previewing)
+
